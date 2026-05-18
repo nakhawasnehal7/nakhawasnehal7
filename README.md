@@ -53,14 +53,6 @@ Currently working on RAG pipelines and MCP servers using Quarkus.
 |[TestingBehavior](https://github.com/nakhawasnehal7/TestingBehavior) | Effective test cases, Churn ratio, Agent testing cases | Python
 
 
-
----
-
-## 📊 GitHub Stats
-
-![Snehal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakhawasnehal7&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nakhawasnehal7&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 ## 📫 Connect with Me

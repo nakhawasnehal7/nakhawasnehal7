@@ -1,4 +1,4 @@
-# Hi there, I'm Nehal Nakhawas 👋
+# Hi there, I'm Snehal Nakhawa 👋
 
 **Computer Science student @ Stevens Institute of Technology**  
 Passionate about Machine Learning, Deep Learning, and building scalable enterprise systems on AWS.  

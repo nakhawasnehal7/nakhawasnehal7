@@ -48,6 +48,10 @@ Currently working on RAG pipelines and MCP servers using Quarkus.
 | [🤖 MLModels](https://github.com/nakhawasnehal7/MLModels) | Collection of ML experiments — linear regression, neural networks, K-Means, RL | Python, scikit-learn, TensorFlow |
 | [ComputerScience 570](https://github.com/nakhawasnehal7/ComputerScienceCS570) | Collection of data structure  | LinkedList Binarytree DFS  BFS ToplogicalSort  Dijkstra  Prims Kruskals Ford Fulkerson | Java
 |[Data Structure](https://github.com/nakhawasnehal7/DSA) | Collection of data structure | LinkedList Binarytree DFS BFS ToplogicalSort Dijkstra  Prims Kruskals Ford Fulkerson | Java
+|[ChatBotMCP](https://github.com/nakhawasnehal7/ChatBotMCP) | Anthropic LLM |  Chatbot using Anthropic LLM  integration of  Bedrock service in AWS | Java
+|[SpaceInvader](https://github.com/nakhawasnehal7/RLModel/tree/main/SpaceInvader) | Reinforcement Learning |  DQN , Frame by Frame PPO | Python
+|[TestingBehavior](https://github.com/nakhawasnehal7/TestingBehavior) | Effective test cases, Churn ratio, Agent testing cases | Python
+
 
 
 ---

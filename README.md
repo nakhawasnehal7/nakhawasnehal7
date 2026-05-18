@@ -46,6 +46,7 @@ Currently working on RAG pipelines and MCP servers using Quarkus.
 | [🏭 IndustrialIoTSimulation](https://github.com/nakhawasnehal7/IndustrialIoTSimulation) | IoT predictive maintenance system with ML models, Streamlit dashboard & local LLM agent | Python, Streamlit, LangChain, Mistral |
 | [🔍 RAG](https://github.com/nakhawasnehal7/RAG) | Retrieval-Augmented Generation pipeline for context-grounded AI responses | Java, Spring Boot, Quarkus |
 | [🤖 MLModels](https://github.com/nakhawasnehal7/MLModels) | Collection of ML experiments — linear regression, neural networks, K-Means, RL | Python, scikit-learn, TensorFlow |
+| [🤖 Data Structure ]([https://github.com/nakhawasnehal7/MLModels](https://github.com/nakhawasnehal7/ComputerScienceCS570)) | Collection of data structure LinkedList | Binarytree| DFS | BFS| ToplogicalSort | Dijstra | Prims| Kruskals| Ford Fulkerson | Java
 
 ---
 

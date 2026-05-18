@@ -56,6 +56,5 @@ Currently working on RAG pipelines and MCP servers using Quarkus.
 ---
 
 ## 📫 Connect with Me
-
-[![LinkedIn](https://www.linkedin.com/in/snehal-nakhawa-6ab2b4117/)
+[LinkedIn](https://www.linkedin.com/in/snehal-nakhawa-6ab2b4117/)
 [![GitHub](https://github.com/nakhawasnehal7)

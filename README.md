@@ -58,12 +58,12 @@ Currently working on RAG pipelines and MCP servers using Quarkus.
 
 ## 📊 GitHub Stats
 
-![Nehal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakhawasnehal7&show_icons=true&theme=dark&hide_border=true)
+![Snehal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nakhawasnehal7&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nakhawasnehal7&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nakhawasnehal7)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/nakhawasnehal7)
+[![LinkedIn](https://www.linkedin.com/in/snehal-nakhawa-6ab2b4117/)
+[![GitHub](https://github.com/nakhawasnehal7)

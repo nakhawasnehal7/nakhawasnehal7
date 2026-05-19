@@ -6,7 +6,7 @@ Currently working on RAG pipelines and MCP servers using Quarkus.
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Snehal Nakwa — Full Stack & AI Engineer
 Full Stack Engineer with 10+ years of experience building robust backend and frontend systems. I specialize in backend services architecture and frontend development using Angular, with a strong foundation in scalable system design and cloud deployments.
@@ -48,7 +48,7 @@ Open to collaborations and opportunities in backend engineering, full-stack deve
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|

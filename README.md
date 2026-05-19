@@ -8,10 +8,10 @@ Currently working on RAG pipelines and MCP servers using Quarkus.
 
 ## About Me
 
-Snehal Nakwa — Full Stack & AI Engineer
+Snehal Nakawa — Full Stack & AI Engineer
 Full Stack Engineer with 10+ years of experience building robust backend and frontend systems. I specialize in backend services architecture and frontend development using Angular, with a strong foundation in scalable system design and cloud deployments.
 Currently, I'm a Master's student in Computer Science at Stevens Institute of Technology, where I'm deepening my expertise in machine learning models and generative AI. I'm actively building and integrating LLM-based systems, working on generative AI pipelines, retrieval-augmented generation architectures, predictive analytics, and applied AI for fintech and enterprise use cases.
-My technical foundation spans Java, Python, Spring Boot Microservices, Spring MVC, RabbitMQ, Kafka,  Hibernate , Docker,  , Angular, MongoDB, PostgreSQL, and AWS. I'm AWS Certified as an Associate Developer and bring hands-on experience in ML modeling and LLM integration.
+My technical foundation spans Java, Python, Spring Boot Microservices, Spring MVC, RabbitMQ, Kafka,  Hibernate , Docker, Angular, MongoDB, PostgreSQL, and AWS. I'm AWS Certified as an Associate Developer and bring hands-on experience in ML modeling and LLM integration.
 Born and brought up in Mumbai, I worked throughout my career there before relocating to New Jersey. I'm now building ML models, designing and shipping generative AI pipelines, and creating intelligent systems that push the boundaries of what's possible with AI and fintech.
 I thrive at the intersection of traditional software engineering and modern AI, and I'm passionate about creating systems that are both technically sound and user-centric.
 Open to collaborations and opportunities in backend engineering, full-stack development, and AI-powered systems.
@@ -52,9 +52,9 @@ Open to collaborations and opportunities in backend engineering, full-stack deve
 
 | Project | Description | Tech |
 |---|---|---|
-| [🏭 IndustrialIoTSimulation](https://github.com/nakhawasnehal7/IndustrialIoTSimulation) | IoT predictive maintenance system with ML models, Streamlit dashboard & local LLM agent | Python, Streamlit, LangChain, Mistral |
-| [🔍 RAG](https://github.com/nakhawasnehal7/RAG) | Retrieval-Augmented Generation pipeline for context-grounded AI responses | Java, Spring Boot, Quarkus |
-| [🤖 MLModels](https://github.com/nakhawasnehal7/MLModels) | Collection of ML experiments — linear regression, neural networks, K-Means, RL | Python, scikit-learn, TensorFlow |
+| [IndustrialIoTSimulation](https://github.com/nakhawasnehal7/IndustrialIoTSimulation) | IoT predictive maintenance system with ML models, Streamlit dashboard & local LLM agent | Python, Streamlit, LangChain, Mistral |
+| [RAG](https://github.com/nakhawasnehal7/RAG) | Retrieval-Augmented Generation pipeline for context-grounded AI responses | Java, Spring Boot, Quarkus |
+| [MLModels](https://github.com/nakhawasnehal7/MLModels) | Collection of ML experiments — linear regression, neural networks, K-Means, RL | Python, scikit-learn, TensorFlow |
 | [ComputerScience 570](https://github.com/nakhawasnehal7/ComputerScienceCS570) | Collection of data structure  | LinkedList Binarytree DFS  BFS ToplogicalSort  Dijkstra  Prims Kruskals Ford Fulkerson | Java
 |[Data Structure](https://github.com/nakhawasnehal7/DSA) | Collection of data structure | LinkedList Binarytree DFS BFS ToplogicalSort Dijkstra  Prims Kruskals Ford Fulkerson | Java
 |[ChatBotMCP](https://github.com/nakhawasnehal7/ChatBotMCP) | Anthropic LLM |  Chatbot using Anthropic LLM  integration of  Bedrock service in AWS | Java
